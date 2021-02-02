@@ -16,5 +16,5 @@ Calculadora cuentifica desarrollado con Android Studio, la aplicacion APK ya ins
 
 ## Descarga El APK
 
-Descarga `APK` clic en el siguiente enlace [Ionic Chat](https://github.com/XJaramillo/Ionic_Chat/raw/Chat/app-debug.apk). :white_check_mark:
+Descarga `APK` clic en el siguiente enlace [Calculadora Cientifica](https://github.com/XJaramillo/Calculadora_Cientifica/raw/master/app-debug.apk). :white_check_mark:
 
